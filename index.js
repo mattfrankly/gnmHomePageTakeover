@@ -59,7 +59,7 @@ class HomePageTakeover extends Component {
 
                           <div className="col-xs-12">
                             <a href="#">
-                              <img className="img-responsive" src="http://eaglefordtexas.com/wp-content/uploads/sites/9/2016/01/8335244367_47cb43d9a5_z-1.jpg"></img>
+                              <img className="img-responsive" src="img/oil_field.jpg"></img>
                             </a>
                           </div>
                           <div className="col-xs-12 secondary-title-container">
@@ -77,7 +77,7 @@ class HomePageTakeover extends Component {
                         <div className="row related-story ">
                           <div className="col-xs-5 hidden-sm related-stories-photo-col">
                             <a href="#">
-                              <img className="img-responsive" src="http://eaglefordtexas.com/wp-content/uploads/sites/9/2016/01/8335244367_47cb43d9a5_z-1.jpg"></img>
+                              <img className="img-responsive" src="img/oil_field.jpg"></img>
                             </a>
                           </div>
                           <div className="col-sm-12 col-md-7 related-stories-text-col">
@@ -92,7 +92,7 @@ class HomePageTakeover extends Component {
                         <div className="row related-story ">
                           <div className="col-xs-5 hidden-sm related-stories-photo-col">
                             <a href="#">
-                              <img className="img-responsive" src="http://eaglefordtexas.com/wp-content/uploads/sites/9/2016/01/8335244367_47cb43d9a5_z-1.jpg"></img>
+                              <img className="img-responsive" src="img/old_oil_field.jpg"></img>
                             </a>
                           </div>
                           <div className="col-sm-12 col-md-7 related-stories-text-col">
@@ -107,7 +107,7 @@ class HomePageTakeover extends Component {
                         <div className="row related-story ">
                           <div className="col-xs-5 hidden-sm related-stories-photo-col">
                             <a href="#">
-                              <img className="img-responsive" src="http://eaglefordtexas.com/wp-content/uploads/sites/9/2016/01/8335244367_47cb43d9a5_z-1.jpg"></img>
+                              <img className="img-responsive" src="img/workers.jpg"></img>
                             </a>
                           </div>
                           <div className="col-sm-12 col-md-7 related-stories-text-col">
@@ -138,7 +138,7 @@ class HomePageTakeover extends Component {
               </div>
 
               <div className="main-image-container">
-                  <img className ="main-image" src="http://eaglefordtexas.com/wp-content/uploads/sites/9/2016/01/8335244367_47cb43d9a5_z-1.jpg"></img>
+                  <img className ="main-image" src="img/devon.jpg"></img>
               </div>
 
               <div className="row visible-xs-block dark-opacity xs-bottom-bar related-stories small">
