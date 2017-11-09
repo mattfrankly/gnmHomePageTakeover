@@ -41,7 +41,7 @@ class HomePageTakeover extends Component {
     return (<div className="gnm-home-page-takeover">
               <div className = "row overlaid-contents">
                 <div className="col-sm-7 col-md-8 col-xs-12 left-column">
-                  <h1 className="main-title">Devon Energy Has Summoned a Dark Force</h1>
+                  <h1 className="main-title">Clouds Have Descended on Devon Energy</h1>
                 </div>
                 <div className=" col-sm-5 col-md-4 right-column hidden-xs ">
                   <div className="dark-opacity fill-all">
